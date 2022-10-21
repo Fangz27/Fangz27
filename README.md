@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fangz27
 - 👀 I’m interested in front end web development, AI and robotics, and game development
-- 🌱 I’m currently learning C==
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on tasks involving front end web development, AI and robotics, and game development.
 - 📫 How to reach me +234 91515077
 
